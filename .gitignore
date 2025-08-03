@@ -2,3 +2,5 @@
 __pycache__/
 maestro-v2.0.0
 data
+checkpoints
+hf-model

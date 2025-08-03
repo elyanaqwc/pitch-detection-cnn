@@ -1,0 +1,6 @@
+Model: checkpoints/best_model.pth
+Best Threshold: 0.4
+F1 Score: 0.8262
+Precision: 0.8463
+Recall: 0.8071
+Accuracy: 0.9812
